@@ -78,7 +78,7 @@ We love the idea that only your imagination can limit what will happen when you 
 ### Inspiration:
 We are inspired by these cool companies:
 
-* [Qmote S](https://qblinks.com/
-* [niu](hhttps://www.myniu.fr/en/)
+* [Qmote S](https://qblinks.com/)
+* [niu](https://www.myniu.fr/en/)
 * [POP Smart Button](https://www.logitech.com/en-us/product/pop-smart-button)
 * [flic](https://flic.io/)
