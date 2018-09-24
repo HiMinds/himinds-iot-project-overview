@@ -24,6 +24,7 @@ are currently active by identifying their unique power signature. In this projec
 
 ### Relevent repositories:
 * [ESP32 and Mongoose OS setup](https://github.com/HiMinds/himinds-iot-project-embedded-esp32-mongoose-os-vscode-setup)
+* [ADC simulator, perfect sine wave](https://github.com/HiMinds/himinds-iot-project-embedded-pc-nodejs-mqtt-adc-simulator)
 
 ### To-Do:
 - [ ] Design hardware, HW to interface current sensor, non-invasive current sensor etc.
