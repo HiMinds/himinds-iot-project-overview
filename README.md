@@ -24,11 +24,11 @@ are currently active by identifying their unique power signature. In this projec
 
 ### Relevent repositories:
 * [ESP32 and Mongoose OS setup](https://github.com/HiMinds/himinds-iot-project-embedded-esp32-mongoose-os-vscode-setup)
-* [ADC simulator, perfect sine wave](https://github.com/HiMinds/himinds-iot-project-embedded-pc-nodejs-mqtt-adc-simulator)
+* [ADC simulator, perfect sine wave](https://github.com/HiMinds/himinds-iot-project-embedded-pc-nodejs-mqtt-adc-simulator) generate a sine wave (control frequency, amplitude, offset etc.)
 
 ### To-Do:
 - [ ] Design hardware, HW to interface current sensor, non-invasive current sensor etc.
-- [ ] Simulate hardware, generate a sine wave (control frequency, amplitude, offset etc.)
+- [X] Simulate ADC hardware, publish MQTT message 
 - [ ] Design algorithm in Energy Monitor
 - [ ] Create tool plot sine wave in real-time
 - [ ] Wireframing/mock-up App
