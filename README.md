@@ -36,6 +36,9 @@ are currently active by identifying their unique power signature. In this projec
 - [ ] Define MQTT protocol
 - [ ] TBD
 
+### Issues:
+- [ ] No. 2933, ADC configuration on ESP32, [Sample 100 Hz sine wave with ADC1_CHANNEL_4 from JavaScript or C](https://forum.mongoose-os.com/discussion/2933/sample-100-hz-sine-wave-with-adc1-channel-4-from-javascript-or-c)
+
 
 ### Inspiration:
 We are inspired by these cool companies:
