@@ -40,6 +40,12 @@ are currently active by identifying their unique power signature. In this projec
 - [ ] No. 2933, ADC configuration on ESP32, [Sample 100 Hz sine wave with ADC1_CHANNEL_4 from JavaScript or C](https://forum.mongoose-os.com/discussion/2933/sample-100-hz-sine-wave-with-adc1-channel-4-from-javascript-or-c)
 
 
+### Learning resources
+* [Electricity monitoring](https://learn.openenergymonitor.org/electricity-monitoring/ac-power-theory/introduction)
+* [Power signature analysis](https://resenv.media.mit.edu/classarchive/MAS961/readings/PowerSignatureAnalysis.pdf)
+* [Power Load Event Detection and Classification Based on Edge Symbol Analysis and Support Vector Machine](https://www.hindawi.com/journals/acisc/2012/742461/)
+
+
 ### Inspiration:
 We are inspired by these cool companies:
 
