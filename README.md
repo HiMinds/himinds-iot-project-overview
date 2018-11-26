@@ -37,7 +37,7 @@ are currently active by identifying their unique power signature. In this projec
 - [ ] Design algorithm in Energy Monitor
 - [ ] Create tool plot sine wave in real-time
 - [ ] Wireframing/mock-up App
-- [ ] ESP32 WiFi and cloud connectivity
+- [X] ESP32 WiFi and cloud connectivity
 - [ ] Define MQTT protocol
 - [ ] TBD
 
