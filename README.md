@@ -26,6 +26,7 @@ are currently active by identifying their unique power signature. In this projec
 * [himinds-iot-project-mobile-home-energy-monitor-app](https://github.com/HiMinds/himinds-iot-project-mobile-home-energy-monitor-app), React Native app that visualizes the power consumption
 * [ESP32 IoT client to connect to Google IoT Core](https://github.com/HiMinds/himinds-iot-project-embedded-esp32-mongoose-gcp-iot-client)
 * [himinds-iot-project-cloud-gcp-cloud-functions](https://github.com/HiMinds/himinds-iot-project-cloud-gcp-cloud-functions) back-end for Google IoT core demo
+* [Provision Google IoT core using terraform](https://github.com/HiMinds/himinds-iot-project-cloud-terraform-gcp-template)
 * [ESP32 and Mongoose OS setup](https://github.com/HiMinds/himinds-iot-project-embedded-esp32-mongoose-os-vscode-setup)
 * [ADC simulator, perfect sine wave](https://github.com/HiMinds/himinds-iot-project-embedded-pc-nodejs-mqtt-adc-simulator) generate a sine wave (control frequency, amplitude, offset etc.)
 
