@@ -80,7 +80,7 @@ We love the idea that only your imagination can limit what will happen when you 
 
 ### Relevent repositories:
 * [BLE Pushbutton](https://github.com/HiMinds/himinds-iot-project-embedded-sensor-pushbutton-ble) for PuckJS
-* [BLE to Google IoT core](https://github.com/HiMinds/himinds-iot-project-embedded-raspberrypi-nodejs-smart-ble-button) application for NodeJS
+* [BLE to Google IoT core](https://github.com/HiMinds/himinds-iot-project-embedded-raspberrypi-nodejs-smart-ble-button) application for NodeJS running on Raspberry Pi
 * [Mender image](https://github.com/HiMinds/himinds-iot-project-cloud-mender-demo)  for Raspberry Pi 3
 
 ### To-Do:
