@@ -80,8 +80,8 @@ We love the idea that only your imagination can limit what will happen when you 
 
 ### Relevent repositories:
 * [BLE Pushbutton](https://github.com/HiMinds/himinds-iot-project-embedded-sensor-pushbutton-ble) for PuckJS
-* [BLE to Google IoT core] applicatino for NodeJS(https://github.com/HiMinds/himinds-iot-project-embedded-raspberrypi-nodejs-smart-ble-button)
-* [Mender](https://github.com/HiMinds/himinds-iot-project-cloud-mender-demo) image for Raspberry Pi 3
+* [BLE to Google IoT core](https://github.com/HiMinds/himinds-iot-project-embedded-raspberrypi-nodejs-smart-ble-button) application for NodeJS
+* [Mender image](https://github.com/HiMinds/himinds-iot-project-cloud-mender-demo)  for Raspberry Pi 3
 
 ### To-Do:
 - [x] Simple BLE pushbutton implementation using GAP profile
