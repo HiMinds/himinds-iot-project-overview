@@ -4,7 +4,7 @@ The HiMinds IoT project consists of several sub-projects. In each project, we ex
 Currently, we have the following projects:
 
 * Home Energy Monitor :bulb:, exploring power signature analysis
-* Smart BLE button :radio_button:, push a button and something happens :-)
+* Smart BLE button :radio_button:, push a button and something happens :smile:
 
 
 ## :house: Energy Monitor :bulb:
