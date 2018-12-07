@@ -85,12 +85,12 @@ We love the idea that only your imagination can limit what will happen when you 
 
 ### To-Do:
 - [x] Simple BLE pushbutton implementation using GAP profile
-- [ ] Switch to using GATT profile
-- [ ] Write BLE application for NodeJS running on Raspberry Pi
+- [x] Write BLE application for NodeJS running on Raspberry Pi
+- [x] Raspberry Pi with cloud connectivity
 - [ ] OTA, Yocto, Mender and Raspberry Pi
-- [ ] Raspberry Pi with cloud connectivity
 - [ ] Wireframing/mock-up App
 - [ ] IFTTT integration
+- [ ] Switch to using GATT profile
 
 
 ### Inspiration:
