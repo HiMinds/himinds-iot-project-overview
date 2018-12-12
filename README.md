@@ -19,7 +19,7 @@ are currently active by identifying their unique power signature. In this projec
 * [Google Cloud IoT Core](https://cloud.google.com/iot-core/)
 * [Firebase](https://firebase.google.com/)
 * [React Native](https://facebook.github.io/react-native/)
-* [Expo](https://expo.io/)
+* [Expo.io](https://expo.io/)
 * [NativeBase](https://nativebase.io/)
 
 ### Relevent repositories:
