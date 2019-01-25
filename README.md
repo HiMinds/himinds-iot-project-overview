@@ -6,7 +6,6 @@ Currently, we have the following projects:
 * Home Energy Monitor :bulb:, exploring power signature analysis
 * Smart BLE button :radio_button:, push a button and something happens :smile:
 
-
 ## :house: Energy Monitor :bulb:
 
 ### Project description:
@@ -30,8 +29,6 @@ are currently active by identifying their unique power signature. In this projec
 * [ESP32 and Mongoose OS setup](https://github.com/HiMinds/himinds-iot-project-embedded-esp32-mongoose-os-vscode-setup)
 * [ADC simulator, perfect sine wave](https://github.com/HiMinds/himinds-iot-project-embedded-pc-nodejs-mqtt-adc-simulator) generate a sine wave (control frequency, amplitude, offset etc.)
 
-
-
 ### To-Do:
 - [X] ESP32 WiFi and cloud connectivity
 - [X] Simulate ADC hardware, publish MQTT message 
@@ -39,17 +36,14 @@ are currently active by identifying their unique power signature. In this projec
 - [ ] Design algorithm in Energy Monitor
 - [ ] Create tool plot sine wave in real-time
 - [ ] Define MQTT protocol
-- [ ] TBD
 
 ### Issues:
 - [ ] No. 2933, ADC configuration on ESP32, [Sample 100 Hz sine wave with ADC1_CHANNEL_4 from JavaScript or C](https://forum.mongoose-os.com/discussion/2933/sample-100-hz-sine-wave-with-adc1-channel-4-from-javascript-or-c)
-
 
 ### Learning resources
 * [Electricity monitoring](https://learn.openenergymonitor.org/electricity-monitoring/ac-power-theory/introduction)
 * [Power signature analysis](https://resenv.media.mit.edu/classarchive/MAS961/readings/PowerSignatureAnalysis.pdf)
 * [Power Load Event Detection and Classification Based on Edge Symbol Analysis and Support Vector Machine](https://www.hindawi.com/journals/acisc/2012/742461/)
-
 
 ### Inspiration:
 We are inspired by these cool companies:
@@ -60,7 +54,6 @@ We are inspired by these cool companies:
 * [Neurio](https://www.neur.io/)
 * [Curb](https://energycurb.com/)
 * [smappee](https://www.smappee.com/be_en/our-technology)
-
 
 ## Smart BLE button :radio_button:
 
