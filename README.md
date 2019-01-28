@@ -1,6 +1,8 @@
 # himinds-iot-project-overview
 The HiMinds IoT project consists of several sub-projects. In each project, we explore different technologies and implement a product consisting of hardware, back-end and mobile app.
 
+Most of our work is documented in our [tech blog](https://medium.com/himinds) at https://medium.com/himinds.
+
 Currently, we have the following projects:
 
 * Home Energy Monitor :bulb:, exploring power signature analysis
