@@ -47,6 +47,10 @@ are currently active by identifying their unique power signature. In this projec
 * [Electricity monitoring](https://learn.openenergymonitor.org/electricity-monitoring/ac-power-theory/introduction)
 * [Power signature analysis](https://resenv.media.mit.edu/classarchive/MAS961/readings/PowerSignatureAnalysis.pdf)
 * [Power Load Event Detection and Classification Based on Edge Symbol Analysis and Support Vector Machine](https://www.hindawi.com/journals/acisc/2012/742461/)
+* [Efficient Appliances Recognition in Smart Homes Based on Active
+and Reactive Power, Fast Fourier Transform and Decision Trees ](https://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/viewFile/9894/10146)
+
+
 
 ### Inspiration:
 We are inspired by these cool companies:
