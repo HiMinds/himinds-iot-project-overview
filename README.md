@@ -6,6 +6,7 @@ Most of our work is documented in our [tech blog](https://medium.com/himinds) at
 Currently, we have the following projects:
 
 * Home Energy Monitor :bulb:, exploring power signature analysis
+* Android Automoitve Project
 * Smart BLE button :radio_button:, push a button and something happens :smile:
 
 ## :house: Energy Monitor :bulb:
