@@ -62,6 +62,28 @@ We are inspired by these cool companies:
 * [Curb](https://energycurb.com/)
 * [smappee](https://www.smappee.com/be_en/our-technology)
 
+
+## :oncoming_automobile: Android Automotive
+
+### Project description:
+
+### Hardware/Technology stack:
+
+### Relevent repositories:
+* [himinds-iot-project-android-automotive-protobuf-simulator](https://github.com/HiMinds/himinds-iot-project-android-automotive-protobuf-simulator)
+
+
+### To-Do:
+
+### Issues:
+
+### Learning resources
+
+### Inspiration:
+
+
+
+
 ## Smart BLE button :radio_button:
 
 ### Project description:
