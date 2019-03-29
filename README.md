@@ -84,7 +84,7 @@ We are inspired by these cool companies:
 
 
 
-## Smart BLE button :radio_button:
+## :radio_button: Smart BLE button 
 
 ### Project description:
 We love the idea that only your imagination can limit what will happen when you push a button. In this project, we want to explore the challenges of building a push button that is if This Then That ready (IFTTT).
